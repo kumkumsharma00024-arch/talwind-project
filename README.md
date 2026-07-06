@@ -1,2 +1,2 @@
-# talwind-project
-practice projects using tailwind
+# Tailwind-project
+Practice projects using Tailwind
